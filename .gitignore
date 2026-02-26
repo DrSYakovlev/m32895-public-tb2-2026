@@ -21,5 +21,15 @@ jupyter_notebooks/current_exercises.ipynb
 # Datasets
 datasets/mall_customers_k-means.csv
 
-# Course work support (samples)
+# __Course work support (samples)__
+
 jupyter_notebooks/course_work_cnn_.ipynb
+
+# Coursework datasets
+
+
+# Might be useful - simple linear regression using statsmodels
+jupyter_notebooks/lin_regr_statsmodels.ipynb
+datasets/simple_lin_regression.csv
+
+
